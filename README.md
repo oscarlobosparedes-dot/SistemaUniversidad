@@ -47,7 +47,8 @@ Permite asignar una sección a cada alumno, así como modificarla o eliminarla. 
 ## Evidencia
 
 ### Menú principal
-![menu](https://github.com/user-attachments/assets/23c99ca3-9ad3-469b-b81c-3e2f5d93284c)
+<img width="980" height="516" alt="image" src="https://github.com/user-attachments/assets/66745428-249e-4a88-a7e7-8788258cfb91" />
+
 
 ### Operaciones del sistema
 ![img1](https://github.com/user-attachments/assets/ae8f7362-7ff6-41ba-bd54-d1efd05540c5)

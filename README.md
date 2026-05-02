@@ -51,8 +51,12 @@ Permite asignar una sección a cada alumno, así como modificarla o eliminarla. 
 
 
 ### Operaciones del sistema
-![img1](https://github.com/user-attachments/assets/ae8f7362-7ff6-41ba-bd54-d1efd05540c5)
+<img width="992" height="520" alt="image" src="https://github.com/user-attachments/assets/d263b3a0-fe25-4c43-82ba-a8f9b058b113" />
 
-![img2](https://github.com/user-attachments/assets/7e4a5a77-bdbf-444d-a0dc-0fc5a20de9f1)
+<img width="992" height="506" alt="image" src="https://github.com/user-attachments/assets/1e5c1328-2ec4-4cfc-93c3-d543030553a2" />
 
-![img3](https://github.com/user-attachments/assets/4cb2838a-22ae-40a4-8399-59314be29261)
+<img width="990" height="518" alt="image" src="https://github.com/user-attachments/assets/178c929d-ca5d-4d4e-af6a-aedddca06d91" />
+
+<img width="972" height="518" alt="image" src="https://github.com/user-attachments/assets/2d79244c-5e01-40d1-ae0f-0de96acc87c2" />
+
+

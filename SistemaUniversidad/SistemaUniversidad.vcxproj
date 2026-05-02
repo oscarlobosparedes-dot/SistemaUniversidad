@@ -128,6 +128,9 @@
   <ItemGroup>
     <ClCompile Include="SistemaUniversidad.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="universidad.sql" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
